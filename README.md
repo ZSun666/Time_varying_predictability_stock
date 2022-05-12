@@ -5,6 +5,7 @@ In this paper, we propose a particle filter with variational Bayes (PF-VB) algor
 
 We predict the S&P 500 stock return with proposed method, and compare it with other methods.
 
+The full paper can be found in the pdf file.
 
 
 
