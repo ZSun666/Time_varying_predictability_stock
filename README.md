@@ -7,10 +7,10 @@ We predict the S&P 500 stock return with proposed method, and compare it with ot
 
 How to replicate the results by the codes:
 
-1. Run the file "main.m" to generate the predictions by different methods. All the methods are saved on "main_algorithms/". The results are saved on "result/".
+1. Run the file "main.m" to generate the predictions by different methods. All the methods are saved on "main_algorithms/". The predictions are saved on "result/".
 
-2. Run the file "analysis.m" to generate the tables and figures. This file will load all the results saved on "result/", and make sure the save/load name of each result file is consistent. 
+2. Run the file "analysis.m" to generate the tables and figures. This file will load all the results of predictions saved on "result/", and make sure the save/load name of each file is consistent. 
 
-3. All the figures are saved on "Figure/".
+3. All the figures are saved on "figure/".
 
 
