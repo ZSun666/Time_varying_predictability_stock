@@ -11,6 +11,6 @@ How to replicate the results by the codes:
 
 2. Run the file "analysis.m" to generate the tables and figures. This file will load all the results saved on "/result/", and make sure the save/load name of each result file is consistent. 
 
-3. All the figure are saved on "/Figure/".
+3. All the figures are saved on "/Figure/".
 
 
